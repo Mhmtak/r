@@ -4,6 +4,7 @@ limonata tarifi
 2.su
 
 3.şeker
+5.bardak
 
 
 4.nane
